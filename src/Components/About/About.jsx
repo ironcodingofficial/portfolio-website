@@ -21,11 +21,7 @@ const About = () => {
                   Frontend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis quos consectetur ea harum! Libero aut qui
-                  similique recusandae provident consectetur sed itaque alias
-                  sint ipsa?
+                  As a fresher, I am aiming to create seamless, user-friendly, and engaging digital experiences by focusing on both front-end and back-end development. Committed to continuous learning and problem-solving, I strive to enhance my skills and contribute to impactful projects that deliver real value.
                 </p>
               </span>
             </div>
